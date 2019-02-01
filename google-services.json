@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1036984229695",
+    "firebase_url": "https://sanitech-99028.firebaseio.com",
+    "project_id": "sanitech-99028",
+    "storage_bucket": "sanitech-99028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036984229695:android:c91eaabccc82bb65",
+        "android_client_info": {
+          "package_name": "com.creativemobilesolutions.sanitech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036984229695-ng10qv91jomct5uet6eh37ol09rnob3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqYKsfZFsAsBXGOJdDwo_afq26dsRw3yk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
